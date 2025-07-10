@@ -68,5 +68,7 @@ Melbeez/Properties/PublishProfiles/
 .vs/Melbeez/config/applicationhost.config
 .vs/
 Melbeez/.config/
+Melbeez/Properties/launchSettings.json
 Melbeez/appsettings.json
+
 
